@@ -12914,6 +12914,7 @@ Temp: -40~+85°C</text>
 <pinref part="U$6" gate="G$1" pin="GND"/>
 <pinref part="X3" gate="G$1" pin="1"/>
 <wire x1="48.26" y1="-66.04" x2="60.96" y2="-66.04" width="0.1524" layer="91"/>
+<junction x="48.26" y="-66.04"/>
 </segment>
 <segment>
 <wire x1="-40.64" y1="-66.04" x2="-35.56" y2="-66.04" width="0.1524" layer="91"/>
