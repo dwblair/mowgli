@@ -2,8 +2,8 @@ EAGLE AutoRouter Statistics:
 
 Job           : /home/dwblair/gitwork/mowgli/mowgli/mowgli.brd
 
-Start at      : 16:06:58 (6 Sep 2016)
-End at        : 16:07:01 (6 Sep 2016)
+Start at      : 16:08:30 (6 Sep 2016)
+End at        : 16:08:32 (6 Sep 2016)
 Elapsed time  : 00:00:01
 
 Signals       :    33   RoutingGrid: 25 mil  Layers: 2
